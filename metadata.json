@@ -1,0 +1,8 @@
+{
+  "name": "AFTONIX",
+  "description": "3D Interactive Showcase Website for AFTONIX, a Multiplayer Game Development Company featuring Cyberpunk Aesthetics and Frosted Glass.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
